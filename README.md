@@ -1,2 +1,3 @@
-# demo-repo
+# Demo
+
 Following along with a tutorial
